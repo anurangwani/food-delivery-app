@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "370255198036",
+    "firebase_url": "https://stellar-11eb2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "stellar-11eb2",
+    "storage_bucket": "stellar-11eb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370255198036:android:f732beb02669ca1ec43ac1",
+        "android_client_info": {
+          "package_name": "com.example.rider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh57fOghNLokbzuIgwzHjF7PS7Qt-THIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370255198036:android:315d6176b27648a2c43ac1",
+        "android_client_info": {
+          "package_name": "com.example.seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh57fOghNLokbzuIgwzHjF7PS7Qt-THIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370255198036:android:75506f2ddecf8e37c43ac1",
+        "android_client_info": {
+          "package_name": "com.example.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh57fOghNLokbzuIgwzHjF7PS7Qt-THIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
